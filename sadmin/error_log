@@ -1,0 +1,15 @@
+[13-Oct-2021 12:09:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:12:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:39:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:40:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:43:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:51:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 12:52:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/indaplpipes2k/public_html/sadmin/login.php on line 13
+[13-Oct-2021 13:09:14 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 6
+[13-Oct-2021 13:09:14 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 7
+[13-Oct-2021 13:12:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 6
+[13-Oct-2021 13:12:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 7
+[13-Oct-2021 13:12:51 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 6
+[13-Oct-2021 13:12:51 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 7
+[13-Oct-2021 13:12:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 6
+[13-Oct-2021 13:12:58 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/indaplpipes2k/public_html/sadmin/login.php on line 7
